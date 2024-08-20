@@ -1,0 +1,77 @@
+# Игнорирование Binaries, Intermediate и других временных файлов
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+.idea/
+
+# Игнорирование файлов, создаваемых при сборке
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.log
+
+# Игнорирование конфигурационных файлов редакторов
+*.VC.db
+*.VC.VC.opendb
+*.VC.db-wal
+*.VC.db-shm
+*.db
+*.db-journal
+
+# Игнорирование файлов от Unreal Engine
+*.opensdf
+*.sdf
+*.sdf-wal
+*.sdf-shm
+*.sln
+*.xcodeproj
+*.xcworkspace
+*.xcuserdatad
+*.DS_Store
+
+# Игнорирование резервных файлов
+*.bak
+*.swp
+*.tmp
+
+# Игнорирование файлов системы Windows
+Thumbs.db
+Desktop.ini
+
+# Игнорирование файлов систем Mac
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+Icon?
+._*
+
+# Игнорирование всех типов файлов сборки
+*.obj
+*.pdb
+*.exe
+*.dll
+*.lib
+*.app
+*.ipa
+*.dylib
+*.ncb
+*.opendb
+*.log
+
+# Исключение специфичных конфигураций
+*.csproj
+*.pidb
+*.sln
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+
+# Исключение сторонних плагинов
+Plugins/
