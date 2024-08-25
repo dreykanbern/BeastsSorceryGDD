@@ -12,10 +12,11 @@
 
 - **[Обзор игры](./game-overview-page.md)**
 - **[История создания мира и лор](./story/introduction.md)**
-	- **[Фракции и персонажи](./story/characters.md)**
-	- **[Политика](./story/policy.md)**
-	- **[Основные локации](./story/locations.md)**
-	- **[Сеттинг](./story/setting.md)**
+	 - **[Фракции и персонажи](./story/characters.md)**
+   - **[Расы](./story/races.md)**
+   - **[Политика](./story/policy.md)**
+   - **[Основные локации](./story/locations.md)**
+   - **[Сеттинг](./story/setting.md)**
 - **[Геймплей](./gameplay/gameplay.md)**
 	- **[Основные механики](./gameplay/mechanics.md)**
       - **[Система магических классов](./gameplay/mechanics/magic-system.md)** 
