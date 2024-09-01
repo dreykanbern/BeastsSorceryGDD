@@ -20,6 +20,9 @@
 - **[Геймплей](./gameplay/gameplay.md)**
 	- **[Основные механики](./gameplay/mechanics.md)**
       - **[Система магических классов](./gameplay/mechanics/magic-system.md)** 
+      - **[Система развития персонажа](./gameplay/mechanics/progression-system.md)**
+      - **[Система характеристик](./gameplay/mechanics/progression-system.md)**
+      - **[Система эффектов](./gameplay/mechanics/effects-system.md)**
 - **[Боссы](./gameplay/bosses.md)**
 - **[Кастомизация персонажей]**
 - Настройки внешнего вида и боевых способностей.
