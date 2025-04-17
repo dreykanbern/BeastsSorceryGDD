@@ -6,6 +6,7 @@ Saved/
 .vscode/
 .vs/
 .idea/
+BeastsSorcery/
 
 # Игнорирование файлов, создаваемых при сборке
 *.suo
